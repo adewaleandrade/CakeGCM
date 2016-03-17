@@ -1,8 +1,8 @@
 {
-    "name": "ker0x/cake_gcm",
+    "name": "oxenti/cake_gcm",
     "type": "cakephp-plugin",
-    "description": "CakeGCM is a plugin for CakePHP to send notification to an Android device through Google Cloud Messaging",
-    "homepage": "https://github.com/ker0x/CakeGCM",
+    "description": "CakeGCM is a plugin for CakePHP to send notification to an Android device through Google Cloud Messaging. This project is a fork from ker0x's repo.",
+    "homepage": "https://github.com/adewaleandrade/CakeGCM",
     "keywords": [
         "cakephp",
         "google",
