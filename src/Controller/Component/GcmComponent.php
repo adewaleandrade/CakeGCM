@@ -277,6 +277,10 @@ class GcmComponent extends Component
 
         // Convert all data into string
         foreach ($data as $key => $value) {
+            if ($key == 'params' && is_array($value)) {
+                continue;
+            }
+
             $data[$key] = (string)$value;
         }
 
